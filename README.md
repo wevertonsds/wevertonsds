@@ -4,7 +4,7 @@
 ✅ - Cursos de HTML, CSS e Python<br>
 ⏳ - Atualmente estudando JavaScript e Python
 
-<div style="display: inline_block" bacground-color:green><br>
+<div style="display: inline_block" width><br>
   <a href="https://www.instagram.com/wevertons_5/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weverton-santos-6aa84a224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
